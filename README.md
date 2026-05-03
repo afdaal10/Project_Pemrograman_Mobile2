@@ -29,3 +29,15 @@ Halaman ini adalah identitas visual pertama yang dilihat pengguna saat aplikasi 
 
 <img src="Dokumentasi_MyBook/Splashscreen.jpeg" width="250">
 
+## 2. Halaman Beranda (Home)
+
+Halaman ini adalah antarmuka utama yang menampilkan daftar seluruh koleksi buku yang tersimpan di database SQLite.
+
+<img src="Dokumentasi_MyBook/Daftar_Buku.jpeg" width="250">
+
+**Fitur pada halaman ini:**
+*   **Daftar Buku Terstruktur**: Menampilkan informasi Judul, Penulis, dan Tahun terbit menggunakan komponen `RecyclerView` agar responsif[cite: 1].
+*   **Status Favorit**: Pengguna dapat langsung menandai buku sebagai favorit melalui ikon bintang di setiap item list[cite: 1].
+*   **Navigasi Detail**: Tombol "Lihat" yang mengarahkan pengguna ke rincian buku dengan transisi *cross-fade* yang halus.
+*   **Bottom Navigation**: Akses cepat menuju fitur Pencarian, Tambah Buku, dan Koleksi Favorit[cite: 1].
+
