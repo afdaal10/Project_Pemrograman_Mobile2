@@ -27,7 +27,9 @@ Sesuai instruksi ujian, berikut adalah deskripsi masing-masing tampilan UI dalam
 
 Halaman ini adalah identitas visual pertama yang dilihat pengguna saat aplikasi dijalankan.
 
-<img src="Dokumentasi_MyBook/Splashscreen.jpeg" width="250">
+<p align="center">
+  <img src="Dokumentasi_MyBook/Splashscreen.jpeg" width="250">
+</p>
 
 ## 2. Halaman Beranda (Home)
 
