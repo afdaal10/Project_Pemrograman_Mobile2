@@ -49,7 +49,9 @@ Halaman ini adalah antarmuka utama yang menampilkan daftar seluruh koleksi buku 
 
 Halaman ini menyediakan fitur pencarian dinamis untuk membantu pengguna menemukan buku tertentu di dalam koleksi secara cepat.
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Cari_buku.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Pencarian Real-time**: Daftar buku akan otomatis terfilter saat pengguna mulai mengetikkan kata kunci tanpa perlu menekan tombol cari[cite: 1].
@@ -61,7 +63,9 @@ Halaman ini menyediakan fitur pencarian dinamis untuk membantu pengguna menemuka
 
 Halaman ini berfungsi sebagai formulir input bagi pengguna untuk menambahkan koleksi buku baru ke dalam database.
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Tambah_buku.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Input Data Lengkap**: Menyediakan field untuk Judul Buku, Nama Penulis, dan Tahun Terbit.
@@ -75,7 +79,9 @@ Halaman ini berfungsi sebagai formulir input bagi pengguna untuk menambahkan kol
 
 Halaman ini menampilkan informasi mendalam mengenai buku yang dipilih, serta fitur unggulan integrasi kecerdasan buatan[cite: 1].
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Detail_buku.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Integrasi Groq API (AI)**: Menghasilkan ringkasan buku secara otomatis menggunakan model Llama 3 untuk membantu pengguna memahami isi buku dengan cepat[cite: 1].
@@ -87,7 +93,9 @@ Halaman ini menampilkan informasi mendalam mengenai buku yang dipilih, serta fit
 
 Halaman ini digunakan untuk memperbarui informasi buku yang sudah ada di dalam koleksi.
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Edit_buku.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Auto-Fill Data**: Saat dibuka, formulir akan otomatis terisi dengan data terbaru dari database berdasarkan ID buku.
@@ -101,7 +109,9 @@ Halaman ini digunakan untuk memperbarui informasi buku yang sudah ada di dalam k
 
 Halaman ini menampilkan kurasi buku-buku yang telah ditandai sebagai favorit oleh pengguna[cite: 1].
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Buku_Fav.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Tampilan Grid**: Menggunakan `GridLayoutManager` untuk menampilkan koleksi dalam format 3 kolom yang rapi dan estetik[cite: 1].
@@ -115,7 +125,9 @@ Halaman ini menampilkan kurasi buku-buku yang telah ditandai sebagai favorit ole
 
 Halaman ini berisi informasi identitas pengguna atau pengembang aplikasi sebagai bagian dari personalisasi[cite: 1].
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Myprofil.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Informasi Identitas**: Menampilkan Foto Profil, Nama Lengkap, dan Email pengguna[cite: 1].
