@@ -35,7 +35,9 @@ Halaman ini adalah identitas visual pertama yang dilihat pengguna saat aplikasi 
 
 Halaman ini adalah antarmuka utama yang menampilkan daftar seluruh koleksi buku yang tersimpan di database SQLite.
 
+<p align="center">
 <img src="Dokumentasi_MyBook/Daftar_Buku.jpeg" width="250">
+</p>
 
 **Fitur pada halaman ini:**
 *   **Daftar Buku Terstruktur**: Menampilkan informasi Judul, Penulis, dan Tahun terbit menggunakan komponen `RecyclerView` agar responsif[cite: 1].
