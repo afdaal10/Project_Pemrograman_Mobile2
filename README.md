@@ -24,6 +24,8 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) pada mata kul
 Sesuai instruksi ujian, berikut adalah deskripsi masing-masing tampilan UI dalam aplikasi:
 
 ## 1. Halaman Splashscreen
+
 Halaman ini adalah identitas visual pertama yang dilihat pengguna saat aplikasi dijalankan.
-![Screenshot edit](Dokumentasi_MyBook/Splashscreen.jpeg)
+
+<img src="Dokumentasi_MyBook/Splashscreen.jpeg" width="250">
 
