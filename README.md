@@ -8,7 +8,7 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) pada mata kul
 | **Kelas** | I241E |
 
 # Fitur Utama Aplikasi
-**1** **Manajemen Data (CRUD)**: Menambah, melihat rincian, mengedit, dan menghapus data buku secara permanen.
+**1.** **Manajemen Data (CRUD)**: Menambah, melihat rincian, mengedit, dan menghapus data buku secara permanen.
 
 Pencarian Pintar: Mencari buku berdasarkan judul atau nama penulis secara real-time.
 
