@@ -25,5 +25,5 @@ Sesuai instruksi ujian, berikut adalah deskripsi masing-masing tampilan UI dalam
 
 ## 1. Halaman Splashscreen
 Halaman ini adalah identitas visual pertama yang dilihat pengguna saat aplikasi dijalankan.
-![Screenshot edit](Dokumentasi_MyBook/Splashscreen.JPEG)
+![Screenshot edit](Dokumentasi_MyBook/Splashscreen.jpeg)
 
