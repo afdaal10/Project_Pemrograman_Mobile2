@@ -135,3 +135,8 @@ Halaman ini berisi informasi identitas pengguna atau pengembang aplikasi sebagai
 *   **Desain Modern**: Menggunakan elemen `CardView` dan `CircleImageView` untuk tampilan yang lebih profesional dan bersih[cite: 1].
 *   **Akses Navigasi**: Dapat diakses dengan mudah melalui profil ikon di bagian atas halaman utama[cite: 1].
 
+## UI Aplikasi My Book
+Bagian ini menampilkan dokumentasi visual dari setiap halaman yang diimplementasikan dalam proyek ini.
+
+<img src="Dokumentasi_MyBook/UI_aplikasi.jpeg">
+
