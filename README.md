@@ -138,5 +138,5 @@ Halaman ini berisi informasi identitas pengguna atau pengembang aplikasi sebagai
 ## UI Aplikasi My Book
 Bagian ini menampilkan dokumentasi visual dari setiap halaman yang diimplementasikan dalam proyek ini.
 
-<img src="Dokumentasi_MyBook/UI_aplikasi.jpeg">
+<img src="Dokumentasi_MyBook/UI_aplikasi.png">
 
