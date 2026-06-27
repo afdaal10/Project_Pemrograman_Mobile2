@@ -36,7 +36,7 @@ Halaman ini adalah identitas visual pertama yang dilihat pengguna saat aplikasi 
 Halaman ini adalah antarmuka utama yang menampilkan daftar seluruh koleksi buku yang tersimpan di database SQLite.
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Daftar_Buku.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_daftar_buku.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -50,7 +50,7 @@ Halaman ini adalah antarmuka utama yang menampilkan daftar seluruh koleksi buku 
 Halaman ini menyediakan fitur pencarian dinamis untuk membantu pengguna menemukan buku tertentu di dalam koleksi secara cepat.
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Cari_buku.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_cari_buku.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -64,7 +64,7 @@ Halaman ini menyediakan fitur pencarian dinamis untuk membantu pengguna menemuka
 Halaman ini berfungsi sebagai formulir input bagi pengguna untuk menambahkan koleksi buku baru ke dalam database.
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Tambah_buku.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_tambah_buku.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -80,7 +80,7 @@ Halaman ini berfungsi sebagai formulir input bagi pengguna untuk menambahkan kol
 Halaman ini menampilkan informasi mendalam mengenai buku yang dipilih, serta fitur unggulan integrasi kecerdasan buatan[cite: 1].
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Detail_buku.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_detail_buku.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -94,7 +94,7 @@ Halaman ini menampilkan informasi mendalam mengenai buku yang dipilih, serta fit
 Halaman ini digunakan untuk memperbarui informasi buku yang sudah ada di dalam koleksi.
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Edit_buku.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_edit_buku.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -110,7 +110,7 @@ Halaman ini digunakan untuk memperbarui informasi buku yang sudah ada di dalam k
 Halaman ini menampilkan kurasi buku-buku yang telah ditandai sebagai favorit oleh pengguna[cite: 1].
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Buku_Fav.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_favorite.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -126,7 +126,7 @@ Halaman ini menampilkan kurasi buku-buku yang telah ditandai sebagai favorit ole
 Halaman ini berisi informasi identitas pengguna atau pengembang aplikasi sebagai bagian dari personalisasi[cite: 1].
 
 <p align="center">
-<img src="Dokumentasi_MyBook/Myprofil.jpeg" width="250">
+<img src="Dokumentasi_MyBook/fitur_profil.jpg" width="250">
 </p>
 
 **Fitur pada halaman ini:**
@@ -135,8 +135,4 @@ Halaman ini berisi informasi identitas pengguna atau pengembang aplikasi sebagai
 *   **Desain Modern**: Menggunakan elemen `CardView` dan `CircleImageView` untuk tampilan yang lebih profesional dan bersih[cite: 1].
 *   **Akses Navigasi**: Dapat diakses dengan mudah melalui profil ikon di bagian atas halaman utama[cite: 1].
 
-## UI Aplikasi My Book
-Bagian ini menampilkan dokumentasi visual dari setiap halaman yang diimplementasikan dalam proyek ini.
-
-<img src="Dokumentasi_MyBook/UI_aplikasi.png">
 
